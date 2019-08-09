@@ -1,0 +1,5 @@
+Dataset/i-LIDS-VID/
+Dataset/i-LIDS-VID.tar
+MNIST_data/
+models/mnist/
+.idea/
